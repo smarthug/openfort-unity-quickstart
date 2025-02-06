@@ -21,8 +21,8 @@ SECRET_KEY can be found at Openfort Dashboard Deveopers Tab
 ```env
 OPENFORT_SECRET_KEY=
 ```
-<img width="964" alt="스크린샷 2025-02-03 174029" src="https://github.com/user-attachments/assets/52d0ecbe-b4e3-4d22-9dc9-db2840384d61" />
-<img width="946" alt="스크린샷 2025-02-03 174322" src="https://github.com/user-attachments/assets/e5a2a9b6-dc8b-409e-8ebd-28311ada96ca" />
+<!-- <img width="964" alt="스크린샷 2025-02-03 174029" src="https://github.com/user-attachments/assets/52d0ecbe-b4e3-4d22-9dc9-db2840384d61" />
+<img width="946" alt="스크린샷 2025-02-03 174322" src="https://github.com/user-attachments/assets/e5a2a9b6-dc8b-409e-8ebd-28311ada96ca" /> -->
 
 
 #### 2. Run Backend
