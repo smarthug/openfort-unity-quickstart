@@ -89,7 +89,7 @@ src/Packages/Openfort/Runtime/ThirdParty/Gree/Assets/Plugins/WebView.bundle/**/*
 *.idea
 
 
-backend/.env
+backend/.env.local
 backend/.DS_Store
 backend/.vscode/*
 !.vscode/extensions.json

@@ -51,13 +51,13 @@ public class LoginSceneManager : MonoBehaviour
 
     #region UNITY_LIFECYCLE
 
-    const string PublishableKey = "pk_test_fc2d2cff-b739-586b-8290-68d3dfb643ae";
-    const string ShieldApiKey = "dfa8d588-378f-4b43-8860-f97353d86760";
-    const string ShieldEncryptionShare = "AofP/2K6FROSJN9f/WnWgicm6NohBlDSo1B7rLFr1R3g";
+    // const string PublishableKey = "pk_test_fc2d2cff-b739-586b-8290-68d3dfb643ae";
+    // const string ShieldApiKey = "dfa8d588-378f-4b43-8860-f97353d86760";
+    // const string ShieldEncryptionShare = "AofP/2K6FROSJN9f/WnWgicm6NohBlDSo1B7rLFr1R3g";
 
-    // const string PublishableKey = "YOUR_OPENFORT_PUBLISHABLE_KEY";
-    // const string ShieldApiKey = "YOUR_SHIELD_PUBLISHABLE_KEY";
-    // const string ShieldEncryptionShare = "YOUR_SHIELD_ENC_SHARE";
+    const string PublishableKey = "YOUR_OPENFORT_PUBLISHABLE_KEY";
+    const string ShieldApiKey = "YOUR_SHIELD_PUBLISHABLE_KEY";
+    const string ShieldEncryptionShare = "YOUR_SHIELD_ENC_SHARE";
     //chain id for Polygon Amoy Testnet
     const int chainId = 80002;
 
